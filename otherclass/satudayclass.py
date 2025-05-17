@@ -6,7 +6,6 @@ class Orderreceived:
         self.orders.append(order)
 
 
-.
 
 class OrderProcess:
     def __init__(self, orderrepo):

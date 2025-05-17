@@ -11,4 +11,4 @@ def say_hi_to_user(user):
     )
         
 
-user1 = User("Rahulsamad", "r@r.com", "123456")
+user1 = User("samad", "r@r.com", "123456")

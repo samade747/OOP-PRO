@@ -18,6 +18,7 @@ This repository is dedicated to mastering Object-Oriented Programming (OOP) conc
 3. 🔐 **Encapsulation**  
    - Wrapping data and code together as a single unit  
    - Access modifiers: public, protected, private
+   - https://github.com/samade747/OOP-PRO/tree/main/OfficalRepo/Encapsulation
 
 4. 🎭 **Abstraction**  
    - Hiding internal implementation and showing only necessary details

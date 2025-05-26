@@ -92,7 +92,7 @@ v2.start()  # Push button start the car.
 # print("5" + "10")     # "510" (concatenates strings)
 # print([1, 2] + [3, 4]) # [1, 2, 3, 4] (joins lists)
 
-🧠 Explanation:
+# 🧠 Explanation:
 # The + operator behaves differently based on the operands.
 #  This is operator overloading, a form of polymorphism.
 

@@ -26,9 +26,12 @@ This repository is dedicated to mastering Object-Oriented Programming (OOP) conc
 
 5. 👪 **Inheritance**  
    - Acquiring properties and behaviors from a parent class
+  
+   - https://github.com/samade747/OOP-PRO/blob/main/OfficalRepo/Inheritance/README.md
 
 6. 🔁 **Polymorphism**  
    - Multiple forms: method overloading and method overriding
+   - https://github.com/samade747/OOP-PRO/tree/main/OfficalRepo/Polymorphism
 
 7. ⚔️ **OOP vs Procedural Programming**  
    - Key differences and use cases
